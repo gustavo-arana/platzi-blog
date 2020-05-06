@@ -68,6 +68,11 @@ nav .profile-link a {
     border-bottom: 1px solid black;
 }
 
+.grid-container {
+    max-width: 980px;
+    margin: auto;
+}
+
 /*----------------------------------------------- Home -----------------------------------------------*/
 
 .home-body {
